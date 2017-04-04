@@ -1,4 +1,4 @@
-Title,Address,41.6763577,-71.5372181,"3 Sweet Fern Ln, Coventry, RI 02816, USA",Match,Google
+Title,Address,Latitude,Longitude,Found Address,Match Quality,Source
 Trinity College,"300 Summit St, Hartford CT 06106",41.7486373,-72.6928403,"300 Summit St, Hartford, CT 06106, USA",Match,Google
 Capital Community College,950 Main St Hartford CT 06103,41.7681618,-72.6730632,"950 Main St, Hartford, CT 06103, USA",Match,Google
 University of Hartford,"200 Bloomfield Ave, West Hartford CT 06117",41.7950017,-72.7154937,"200 Bloomfield Ave, West Hartford, CT 06117, USA",Match,Google
@@ -10,5 +10,6 @@ Central Connecticut State University,"1615 Stanley St, New Britain CT 06050",41.
 Goodwin College,"1 Riverside Drive, East Hartford CT 06118",41.7428246,-72.6404704,"1 Riverside Dr, East Hartford, CT 06118, USA",Match,Google
 Manchester Community College,"Great Path, Manchester CT 06040",41.7622906,-72.5670043,"Great Path, Manchester, CT 06040, USA",Match,Google
 University of St. Joseph,"1678 Asylum Ave, West Hartford CT 06117",41.7809411,-72.7284173,"1678 Asylum Ave, West Hartford, CT 06117, USA",Match,Google
-Pauls Metal Eck,"Krossener Str. 15, 10245 Berlin",52.5106054,13.4571422,"Krossener Str. 15, 10245 Berlin, Germany",Match,Google
-Awesome Place,Zittau,50.8999681,14.8029971,"Zittau, Germany",Match,Google
+Pauls Metal Eck,"Krossener Str. 18, Berlin",52.5103258,13.4580929,"Krossener Str. 18, 10245 Berlin, Germany",Match,Google
+Awesome Place ,Kurort Jonsdorf,50.8546026,14.7006303,"Jonsdorf, Germany",Match,Google
+Boring little city,Lippstadt,51.6712278,8.3406481,"Lippstadt, Germany",Match,Google
